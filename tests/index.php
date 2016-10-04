@@ -1,8 +1,8 @@
 <?php
 
-require '../src/Hello.php';
+require '../vendor/autoload.php';
 
-use oscarduran\Hello;
+use oscarduranx\Hello;
 $hello = new Hello();
 
 //llegible

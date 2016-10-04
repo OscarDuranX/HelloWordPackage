@@ -8,5 +8,8 @@
             "email": "xoscarduranx@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4": {"oscarduranx\\": "src/"}
+    }
 }

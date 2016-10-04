@@ -6,7 +6,7 @@
  * Time: 16:02
  */
 
-namespace oscarduran;
+namespace oscarduranx;
 
 
 class Hello
