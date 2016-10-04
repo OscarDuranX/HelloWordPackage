@@ -13,6 +13,6 @@ class Hello
 {
     public function say()
     {
-        return 'hello world!!!';
+        return 'Bye!!!';
     }
 }
