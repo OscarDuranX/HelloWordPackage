@@ -2,7 +2,7 @@
 
 require '../vendor/autoload.php';
 
-use oscarduranx\Hello;
+use oscarduranx\Hello\Hello;
 $hello = new Hello();
 
 //llegible
