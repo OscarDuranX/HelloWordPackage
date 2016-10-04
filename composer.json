@@ -1,0 +1,12 @@
+{
+    "name": "oscarduranx/helloworldpackage",
+    "description": "dymmy hello world package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oscar Duran",
+            "email": "xoscarduranx@gmail.com"
+        }
+    ],
+    "require": {}
+}
